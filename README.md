@@ -20,3 +20,9 @@ python manage.py runserver
 ```
 pip freeze > requirements.txt
 ```
+
+
+#### server
+```
+http://127.0.0.1:8000/
+```
